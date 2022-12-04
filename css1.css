@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="A"><marquee direction="right" behavior="alternate" onmouseover= this.stop() onmouseout=this.start()> <h3>WELCOME TO THE WORLD OF CSS</h3></marquee>
+</div>
+<div class="B">
+</div>
+<div id="C">
+<img src="img.jpg" height=500px width=100%>
+</div>
+<div class="D">
+<div class="E">
+<p>
+<marquee direction="down" onmouseover= this.stop() onmouseout=this.start()>
+
+PROPERTIES OF CSS
+<br>
+*CSS stands for Cascading Style sheet<br>
+*Text properties<br>
+*background properties<br>
+<br>
+<br>
+<br>
+*
+</marquee>
+</p>
+</div>
+</div>
+</body>
+</html>
